@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Apple Macbook Pro M1 Max",
+        "price":  3499
+    },
+    {
+        "id": 2,
+        "title": "Tesla Model X",
+        "price":  113949
+    },
+    {
+        "id": 3,
+        "title": "Pepsi Cola",
+        "price":  3.59
+    },
+    {
+        "id": 4,
+        "title": "Big Mac Menu",
+        "price":  6.89
+    },
+    {
+        "id": 5,
+        "title": "❤ 🌙 ❤",
+        "price": 0.15
+    }
+]
