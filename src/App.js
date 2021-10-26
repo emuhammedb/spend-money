@@ -30,16 +30,18 @@ function App() {
   return (
     <>
       <Header total={total} money={money} />
-      {products.map((product) => (
-        <Product
-          key={product.id}
-          basket={basket}
-          setBasket={setBasket}
-          product={product}
-          total={total}
-          money={money}
-        />
-      ))}
+      <div className="container products">
+        {products.map((product) => (
+          <Product
+            key={product.id}
+            basket={basket}
+            setBasket={setBasket}
+            product={product}
+            total={total}
+            money={money}
+          />
+        ))}
+      </div>
       {total > 0 && (
         <Basket
           resetBasket={resetBasket}

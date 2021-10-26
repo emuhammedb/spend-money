@@ -2,26 +2,37 @@
     {
         "id": 1,
         "title": "Apple Macbook Pro M1 Max",
-        "price":  3499
+        "price":  3499,
+        "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_16-inch-Screen_10182021_big_carousel.jpg.large_2x.jpg"
     },
     {
         "id": 2,
         "title": "Tesla Model X",
-        "price":  113949
+        "price":  113949,
+        "image": "https://static-assets.tesla.com/configurator/compositor?&options=$MTX11,$PPSW,$WX20,$IBC00&view=FRONT34&model=mx&size=1920&bkba_opt=2&version=v0028d202110220404&crop=0,0,0,0&version=v0028d202110220404"
     },
     {
         "id": 3,
-        "title": "Pepsi Cola",
-        "price":  3.59
+        "title": "Airbus A380",
+        "price":  375000000,
+        "image": "https://airbus-h.assetsadobe2.com/is/image/content/dam/channel-specific/website-/products-and-services/aircraft/header/aircraft-families/A380-family-stage.jpg?wid=1920&fit=fit,1&qlt=85,0"
     },
     {
         "id": 4,
-        "title": "Big Mac Menu",
-        "price":  6.89
+        "title": "Microsoft",
+        "price":  41000000000,
+        "image": "https://news-cdn.softpedia.com/images/news2/Microsoft-Redesigns-Its-Logo-for-the-First-Time-in-25-Years-Here-It-Is-3.png"
     },
     {
         "id": 5,
+        "title": "Pepsi Cola (pack of 24)",
+        "price": 9,
+        "image": "https://productimages.hepsiburada.net/s/31/550/10334749524018.jpg/format:webp"
+    },
+    {
+        "id": 6,
         "title": "❤ 🌙 ❤",
-        "price": 0.15
+        "price": 100000000000,
+        "image": "https://webdevhive.com/assets/blog/reactjs-icons-library.svg"
     }
 ]
